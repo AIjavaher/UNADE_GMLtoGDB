@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "csv-processor"
+version = "0.1.0"
+description = "Simple CSV processor to filter water network data by OBJECTID"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.0"
+neo4j = "^5.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 
