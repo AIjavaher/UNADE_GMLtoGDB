@@ -84,13 +84,12 @@ The repository includes a sample CityGML file (`water_network_utility_ade_comple
 If you use this software in your research, please cite:
 
 ```
-[Your Paper Citation Here]
+-----
 ```
 
 ## License
 
-The Centre for Spatial Data Infrastructure and Land Administration - The University of Melbourne
-
+---
 ## Acknowledgments
 
 This work supports research in utility network modeling and graph database applications for smart city infrastructure.
