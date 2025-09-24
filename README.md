@@ -89,11 +89,7 @@ If you use this software in your research, please cite:
 
 ## License
 
-[Add your license information here]
-
-## Contact
-
-[Add your contact information here]
+The Centre for Spatial Data Infrastructure and Land Administration - The University of Melbourne
 
 ## Acknowledgments
 
